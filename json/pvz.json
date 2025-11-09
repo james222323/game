@@ -1,0 +1,17 @@
+{
+  "name": "Plants vs. Zombies",
+  "image": "https://cdn.jsdelivr.net/gh/james222323/game@main/Art/pvz.jpg",
+  "files": [
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part1",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part2",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part3",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part4",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part5",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part6",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part7",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part8",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part9",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part10",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/pvz/pvz.fsgame.part11"
+  ]
+}
