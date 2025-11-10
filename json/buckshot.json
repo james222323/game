@@ -1,0 +1,19 @@
+{
+  "name": "buckshot",
+  "image": "https://cdn.jsdelivr.net/gh/james222323/game@main/Art/buckshot.jpg",
+  "files": [
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part1",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part2",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part3",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part4",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part5",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part6",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part7",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part8",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part9",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part10",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part11",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part12",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/buckshot/buckshot.fsgame.part13"
+  ]
+}
