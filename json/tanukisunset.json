@@ -1,0 +1,9 @@
+{
+  "name": "tanukisunset",
+  "image": "https://cdn.jsdelivr.net/gh/james222323/game@main/Art/tanuki.png",
+  "files": [
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/tanukisunset/tanukisunset.fsgame.part1",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/tanukisunset/tanukisunset.fsgame.part2",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/tanukisunset/tanukisunset.fsgame.part3"
+  ]
+}
