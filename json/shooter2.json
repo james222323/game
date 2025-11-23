@@ -1,0 +1,8 @@
+{
+  "name": "shooter2",
+  "image": "https://cdn.jsdelivr.net/gh/james222323/game@main/Art/shooter2.png",
+  "files": [
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/shooter2/shooter2.fsgame.part1",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/shooter2/shooter2.fsgame.part2"
+  ]
+}
