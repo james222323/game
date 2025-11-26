@@ -1,0 +1,8 @@
+{
+  "name": "terraria",
+  "image": "https://cdn.jsdelivr.net/gh/james222323/game@main/Art/terraria.png",
+  "files": [
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/terraria/terraria.fsgame.part1",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/terraria/terraria.fsgame.part2"
+  ]
+}
