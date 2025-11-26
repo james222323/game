@@ -1,0 +1,8 @@
+{
+  "name": "idlelight",
+  "image": "https://cdn.jsdelivr.net/gh/james222323/game@main/Art/idlelight.png",
+  "files": [
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/idlelight/idlelight.fsgame.part1",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/idlelight/idlelight.fsgame.part2"
+  ]
+}
