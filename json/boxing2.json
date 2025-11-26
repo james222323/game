@@ -1,0 +1,7 @@
+{
+  "name": "boxing2",
+  "image": "https://cdn.jsdelivr.net/gh/james222323/game@main/Art/boxing2.png",
+  "files": [
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/boxing2/boxing2.fsgame"
+  ]
+}
