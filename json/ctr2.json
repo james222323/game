@@ -1,0 +1,7 @@
+{
+  "name": "ctr2",
+  "image": "https://cdn.jsdelivr.net/gh/james222323/game@main/Art/ctr2.png",
+  "files": [
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/ctr2/ctr2.fsgame"
+  ]
+}
