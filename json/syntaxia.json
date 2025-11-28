@@ -1,0 +1,11 @@
+{
+  "name": "syntaxia",
+  "image": "https://cdn.jsdelivr.net/gh/james222323/game@main/Art/syntaxia.png",
+  "files": [
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/syntaxia/syntaxia.fsgame.part1",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/syntaxia/syntaxia.fsgame.part2",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/syntaxia/syntaxia.fsgame.part3",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/syntaxia/syntaxia.fsgame.part4",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/syntaxia/syntaxia.fsgame.part5"
+  ]
+}
