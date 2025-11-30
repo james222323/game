@@ -1,0 +1,19 @@
+{
+  "name": "FNAC2",
+  "image": "https://cdn.jsdelivr.net/gh/james222323/game@main/Art/FNAC2.png",
+  "files": [
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part1",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part2",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part3",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part4",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part5",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part6",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part7",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part8",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part9",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part10",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part11",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part12",
+    "https://cdn.jsdelivr.net/gh/james222323/game@latest/games/FNAC2/FNAC2.fsgame.part13"
+  ]
+}
